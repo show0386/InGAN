@@ -1,4 +1,14 @@
 # InGAN
+This project is converted to python 3.xx version 
+
+Python==3.6.13
+Pytorch==1.8.1
+scipy==1.1.0
+cudatoolkit==10.1
+ffmpeg==4.2.2
+matplotlib==3.3.4
+scikit-video==1.1.11
+
 ### Official code for the paper "InGAN: Capturing and Retargeting the DNA of a Natural Image"
 
 Project page: http://www.wisdom.weizmann.ac.il/~vision/ingan/ (See our results and visual comparison to other methods)
